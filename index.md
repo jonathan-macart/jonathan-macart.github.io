@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Welcome to my homepage. You will find information here about my [research interests](research), [publications](publications), [background](about), and scientific outlook. I might also post a few miscellaneous thoughts to my [blog](blog) from time to time.
+![Vorticity magnitude in a Re=10,000 coflowing planar jet](./_media/jet10k_NP_NR_vort.png){:class="img-responsive"}
+
+Welcome to my homepage. You will find information here about my [research interests](research), [publications](publications), and [background](about). I might also post a few miscellaneous thoughts to my [blog](blog) from time to time.

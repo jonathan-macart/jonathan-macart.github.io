@@ -5,6 +5,17 @@ permalink: /presentations/
 ---
 
 
+# Conference Presentations
+
+20. A.C. Nunno, B.A. Perry, J.F. MacArt, M.E. Mueller, Data-driven dimension reduction in turbulent combustion: Utility and limitations, AIAA SciTech 2018, San Diego, CA, January 7--11, 2019
+
+
+19. A.C. Nunno, B.A. Perry, J.F. MacArt, M.E. Mueller, A comparison of physics-based and data-based methods of dimension reduction in turbulent combustion, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
+
+
+18. C.P. Byers, J.F. MacArt, M.E. Mueller, M. Hultmark, Similarity in decaying isotropic turbulence: Functional forms, constraints in single- and two-time evolution, and DNS results, 71\textsuperscript{st} Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
+
+
 17. J.F. MacArt, T. Grenga, M.E. Mueller, Evolution of flame-conditioned velocity statistics in turbulent premixed jet flames at varying Karlovitz number, 37th International Symposium on Combustion, Dublin, Ireland, July 29--August 3, 2018
 
 
@@ -54,3 +65,19 @@ permalink: /presentations/
 
 
 1. J.F. MacArt,  Modeling of energetic composites under small-strain chemo-thermo-mechanical loading,  2012 Undergraduate Research Summer Symposium, Notre Dame, IN, August 3, 2012
+
+
+
+
+# Invited Seminars
+
+
+5. M.E. Mueller, J.F. MacArt, Large Eddy Simulation Subfilter Modeling of Combustion-Affected Turbulence in Turbulent Premixed Combustion, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
+
+4. J.F. MacArt, Turbulent Combustion: Multiscale, Multiphysical Interactions and the Challenge of High-Fidelity Simulation, Department of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, September 7, 2018
+
+3. J.F. MacArt, Simulation and Modeling of Heat Release Effects on Turbulence in Turbulent Combustion, Design Physics Division, Lawrence Livermore National Laboratory, Livermore, CA, March 2, 2018
+
+2. J.F. MacArt, Simulation and Modeling of Heat Release Effects on Turbulence in Turbulent Combustion, Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame, IN, February 17, 2018
+
+1. J.F. MacArt, Simulation and Modeling of Heat Release Effects on Turbulence in Turbulent Premixed Combustion, Center for Exascale Simulation of Plasma-Coupled Combustion, University of Illinois at Urbana-Champaign, Urbana, IL, January 23, 2018

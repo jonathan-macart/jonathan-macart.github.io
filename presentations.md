@@ -13,7 +13,7 @@ permalink: /presentations/
 19. A.C. Nunno, B.A. Perry, J.F. MacArt, M.E. Mueller, A comparison of physics-based and data-based methods of dimension reduction in turbulent combustion, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
 
 
-18. C.P. Byers, J.F. MacArt, M.E. Mueller, M. Hultmark, Similarity in decaying isotropic turbulence: Functional forms, constraints in single- and two-time evolution, and DNS results, 71\textsuperscript{st} Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
+18. C.P. Byers, J.F. MacArt, M.E. Mueller, M. Hultmark, Similarity in decaying isotropic turbulence: Functional forms, constraints in single- and two-time evolution, and DNS results, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
 
 
 17. J.F. MacArt, T. Grenga, M.E. Mueller, Evolution of flame-conditioned velocity statistics in turbulent premixed jet flames at varying Karlovitz number, 37th International Symposium on Combustion, Dublin, Ireland, July 29--August 3, 2018

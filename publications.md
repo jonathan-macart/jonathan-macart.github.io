@@ -9,7 +9,7 @@ permalink: /publications/
 4. J.F. MacArt, T. Grenga, M.E. Mueller, [Evolution of flame-conditioned velocity statistics in turbulent premixed jet flames at low and high Karlovitz numbers](https://doi.org/10.1016/j.proci.2018.08.030), *Proceedings of the Combustion Institute* (2018), in press
 
 
-3. T. Grenga, J.F. MacArt, M.E. Mueller, [Dynamic Mode Decomposition of a Direct Numerical Simulation of a Turbulent Premixed Planar Jet Flame: Convergence of the Modes](https://doi.org/10.1080/13647830.2018.1457799), *Combustion Theory and Modelling* (2018), p. 1--17
+3. T. Grenga, J.F. MacArt, M.E. Mueller, [Dynamic Mode Decomposition of a Direct Numerical Simulation of a Turbulent Premixed Planar Jet Flame: Convergence of the Modes](https://doi.org/10.1080/13647830.2018.1457799), *Combustion Theory and Modelling* 22 (2018), p. 795--811
 
 
 2. J.F. MacArt, T. Grenga, M.E. Mueller, [Effects of combustion heat release on velocity and scalar statistics in turbulent premixed jet flames at low and high Karlovitz numbers](https://doi.org/10.1016/j.combustflame.2018.01.022), *Combustion and Flame* 191 (2018), p. 468--485

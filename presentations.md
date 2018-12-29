@@ -7,6 +7,11 @@ permalink: /presentations/
 
 # Conference Presentations
 
+
+22. C.P. Byers, J.F. MacArt, M.E. Mueller, M. Hultmark, Similarity Constraints in Decaying Isotropic Turbulence, 11th International Symposium on Turbulence and Shear Flow Phenomena, Southampton, UK, July 30--August 2, 2019
+
+21. J.F. MacArt, J.A. Sirignano, J.B. Freund, Data-driven subfilter turbulence models and analysis in turbulent combustion, 17th International Conference on Numerical Combustion, Aachen, Germany, May 6--8, 2019
+
 20. A.C. Nunno, B.A. Perry, J.F. MacArt, M.E. Mueller, Data-driven dimension reduction in turbulent combustion: Utility and limitations, AIAA SciTech 2018, San Diego, CA, January 7--11, 2019
 
 

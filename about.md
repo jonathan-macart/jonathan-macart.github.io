@@ -12,4 +12,4 @@ I am involved in the academic community, consulting on turbulent combustion and 
 
 I will start in January 2020 as an assistant professor of Aerospace and Mechanical Engineering at the University of Notre Dame. I am looking to hire graduate students and postdocs with interests in numerical simulation of turbulence and a dynamic work environment. Interested individuals should send their CV and a brief statement of intent to [jmacart@nd.edu](mailto:jmacart@nd.edu).
 
-[Current CV](./_media/jmacart_cv.pdf)
+[Current CV](./_media/jmacart-cv.pdf)

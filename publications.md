@@ -6,7 +6,7 @@ permalink: /publications/
 
 
 
-5. J.F. MacArt and M.E. Mueller, [Scaling and modeling of heat-release effects on subfilter turbulence in premixed combustion](./_media/publications/02_MacArt_CTR18.pdf), *Center for Turbulence Research Proceedings of the Summer Program 2018* 299--308
+5. J.F. MacArt and M.E. Mueller, [Scaling and modeling of heat-release effects on subfilter turbulence in premixed combustion](./_media/publications/02_MacArt_CTR18.pdf), *Center for Turbulence Research Proceedings of the Summer Program* (2018) 299--308
 
 
 4. J.F. MacArt, T. Grenga, M.E. Mueller, [Evolution of flame-conditioned velocity statistics in turbulent premixed jet flames at low and high Karlovitz numbers](https://doi.org/10.1016/j.proci.2018.08.030), *Proceedings of the Combustion Institute* 37 (2018) 2503--2510

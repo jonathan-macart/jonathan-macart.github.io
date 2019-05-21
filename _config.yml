@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jonathan F. MacArt
-# email: your-email@example.com
+email: jmacart@nd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Flow physicist, computational scientist, educator
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jonathan-macart.github.io"
 # twitter_username: jekyllrb
 linkedin_username: jmacart
-github_username:  jonathan-macart
+# github_username:  jonathan-macart
 
 # Build settings
 markdown: kramdown

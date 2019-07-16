@@ -85,6 +85,6 @@ permalink: /presentations/
 
 3. J.F. MacArt, Simulation and Modeling of Heat Release Effects on Turbulence in Turbulent Combustion, Design Physics Division, Lawrence Livermore National Laboratory, Livermore, CA, March 2, 2018
 
-2. J.F. MacArt, Simulation and Modeling of Heat Release Effects on Turbulence in Turbulent Combustion, Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame, IN, February 17, 2018
+2. J.F. MacArt, Simulation and Modeling of Heat Release Effects on Turbulence in Turbulent Combustion, Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame, IN, February 13, 2018
 
 1. J.F. MacArt, Simulation and Modeling of Heat Release Effects on Turbulence in Turbulent Premixed Combustion, Center for Exascale Simulation of Plasma-Coupled Combustion, University of Illinois at Urbana-Champaign, Urbana, IL, January 23, 2018

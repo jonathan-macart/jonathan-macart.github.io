@@ -8,25 +8,30 @@ permalink: /presentations/
 # Conference Presentations
 
 
-23. C.P. Byers, J.F. MacArt, M.E. Mueller, M. Hultmark, Similarity Constraints in Decaying Isotropic Turbulence, 11th International Symposium on Turbulence and Shear Flow Phenomena, Southampton, UK, July 30--August 2, 2019
+26. P.P. Popov, M. Nishihara, A. Munafo, J.F. MacArt, G.S. Elliott, J.B. Freund, Laser-induced breakdown ignition of low-pressure hydrogen-air premixtures, AIAA SciTech Forum 2020, Orlando, FL, January 6--10, 2020
+  
+25. J.F. MacArt, J.M. Wang, J.B. Freund, Three-dimensional effects in vorticity production, cellular instabilities, and transition to turbulence in focused-laser-induced ignition kernels, 72nd Annual Meeting of the APS Division of Fluid Dynamics, Seattle, WA, November 23--26, 2019
 
-22. J.F. MacArt, J.A. Sirignano, D.A. Buchta, J.B. Freund, Data-driven subfilter turbulence models and analysis in turbulent combustion, 17th International Conference on Numerical Combustion, Aachen, Germany, May 6--8, 2019
+24. J.M. Wang, D.A. Buchta, J.F. MacArt, J.B. Freund, Hydrodynamic ejection from a laser-induced breakdown and its implications for ignition, 72nd Annual Meeting of the APS Division of Fluid Dynamics, Seattle, WA, November 23--26, 2019
 
-21. M.E. Mueller, B.A. Perry, A.C. Nunno, J.F. MacArt, L. Berger, Integrating data-based tools into physics-based model development for turbulent combustion, 17th International Conference on Numerical Combustion, Aachen, Germany, May 6--8, 2019
+23. C.P. Byers, J.F. MacArt, M.E. Mueller, M. Hultmark, Triple-correlations in decaying isotropic turbulence, 72nd Annual Meeting of the APS Division of Fluid Dynamics, Seattle, WA, November 23--26, 2019
 
-20. A.C. Nunno, B.A. Perry, J.F. MacArt, M.E. Mueller, Data-driven dimension reduction in turbulent combustion: Utility and limitations, AIAA SciTech 2018, San Diego, CA, January 7--11, 2019
+22. C.P. Byers, J.F. MacArt, M.E. Mueller, M. Hultmark, Similarity Constraints in Decaying Isotropic Turbulence, 11th International Symposium on Turbulence and Shear Flow Phenomena, Southampton, UK, July 30--August 2, 2019
 
+21. J.F. MacArt, J.A. Sirignano, D.A. Buchta, J.B. Freund, Data-driven subfilter turbulence models and analysis in turbulent combustion, 17th International Conference on Numerical Combustion, Aachen, Germany, May 6--8, 2019
 
-19. A.C. Nunno, B.A. Perry, J.F. MacArt, M.E. Mueller, A comparison of physics-based and data-based methods of dimension reduction in turbulent combustion, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
+20. M.E. Mueller, B.A. Perry, A.C. Nunno, J.F. MacArt, L. Berger, Integrating data-based tools into physics-based model development for turbulent combustion, 17th International Conference on Numerical Combustion, Aachen, Germany, May 6--8, 2019
 
-
-18. C.P. Byers, J.F. MacArt, M.E. Mueller, M. Hultmark, Similarity in decaying isotropic turbulence: Functional forms, constraints in single- and two-time evolution, and DNS results, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
-
-
-17. J.F. MacArt, T. Grenga, M.E. Mueller, Evolution of flame-conditioned velocity statistics in turbulent premixed jet flames at varying Karlovitz number, 37th International Symposium on Combustion, Dublin, Ireland, July 29--August 3, 2018
+19. A.C. Nunno, B.A. Perry, J.F. MacArt, M.E. Mueller, Data-driven dimension reduction in turbulent combustion: Utility and limitations, AIAA SciTech 2018, San Diego, CA, January 7--11, 2019
 
 
-16. J.F. MacArt, M.E. Mueller, J. Urzay, M. Ihme, Scale dependence and modeling of heat release effects on subfilter turbulence in turbulent premixed combustion, Center for Turbulence Research Summer Program, Stanford, CA, June 24--July 20, 2018
+18. A.C. Nunno, B.A. Perry, J.F. MacArt, M.E. Mueller, A comparison of physics-based and data-based methods of dimension reduction in turbulent combustion, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
+
+
+17. C.P. Byers, J.F. MacArt, M.E. Mueller, M. Hultmark, Similarity in decaying isotropic turbulence: Functional forms, constraints in single- and two-time evolution, and DNS results, 71st Annual Meeting of the APS Division of Fluid Dynamics, Atlanta, GA, November 18--20, 2018
+
+
+16. J.F. MacArt, T. Grenga, M.E. Mueller, Evolution of flame-conditioned velocity statistics in turbulent premixed jet flames at varying Karlovitz number, 37th International Symposium on Combustion, Dublin, Ireland, July 29--August 3, 2018
 
 
 15. J.F. MacArt, T. Grenga, M.E. Mueller, Budgets of flame-conditioned second-order turbulence statistics in low and high Karlovitz number turbulent premixed jet flames, 2018 Spring Technical Meeting of the Eastern States Section of the Combustion Institute, State College, PA, March 5--7, 2018
